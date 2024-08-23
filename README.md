@@ -1,2 +1,2 @@
 # ProductsDashboard
-This repository contains a Power BI dashboard that visualizes product backorders, lost, and returned items. The project involved importing data from a CSV file, transforming and cleaning it in Power Query, and then creating an interactive dashboard to highlight key inventory metrics and trends.
+This repository contains a Power BI dashboard that visualizes product backordered, lost, and returned items using a sample sales dataset. The sales data was imported from an Excel file, then transformed and cleaned in Power Query. The final output is an interactive dashboard that highlights key inventory metrics and trends.
